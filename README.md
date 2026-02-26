@@ -135,4 +135,4 @@ When using `--format zip` or `--format both`, a `.zip` is created containing:
 
 ## License
 
-[text](LICENSE)
+[GNU GENERAL PUBLIC LICENSE (GPL-3.0)](LICENSE)
