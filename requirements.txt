@@ -1,0 +1,6 @@
+pynput
+mss
+Pillow
+pygetwindow
+pywinauto
+comtypes
