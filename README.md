@@ -3,8 +3,8 @@
 A Python recreation of the classic Windows Problem Steps Recorder (`psr.exe`) that Microsoft removed in favor of the Snipping Tool. This version captures a screenshot of the active window on every mouse click, logs what you did, and generates a clean HTML report you can share or archive.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Crossplatform-0078D6)
+![License](https://img.shields.io/badge/License-GPL--3.0-blue)
 
 ## Features
 
@@ -135,4 +135,4 @@ When using `--format zip` or `--format both`, a `.zip` is created containing:
 
 ## License
 
-MIT
+[text](LICENSE)
