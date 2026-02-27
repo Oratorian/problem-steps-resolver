@@ -116,7 +116,7 @@ When using `--format zip` or `--format both`, a `.zip` is created containing:
 |---------|-------------|------------|
 | Screenshot on click | ✅ | ✅ |
 | Active window capture | ✅ | ✅ |
-| Click position highlight | ✅ (green border) | ✅ (red crosshair) |
+| Click position highlight | ✅ (green border) | ✅ (red border) |
 | Window title logging | ✅ | ✅ |
 | UI element detection | ✅ (MSAA) | ✅ (UIA via pywinauto) |
 | Keyboard logging | ✅ (masked) | ✅ (masked) |
