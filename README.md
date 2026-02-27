@@ -19,7 +19,11 @@ A Python recreation of the classic Windows Problem Steps Recorder (`psr.exe`) th
 - **ZIP export** optionally bundle the report with separate screenshot PNGs
 - **Configurable** adjust capture delay, output format, and more via CLI flags
 
-## Requirements
+## Grab your release from the release page
+
+# [Releases](https://github.com/Oratorian/problem-steps-recorder/releases)
+
+## Requirements ( For development or running as a Python script directly )
 
 **Python 3.10+** on Windows.
 
