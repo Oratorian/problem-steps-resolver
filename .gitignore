@@ -5,8 +5,11 @@ __pycache__/
 *.pyc
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+.env
 
 build_nuitka.py
 psr.build
 psr.dist
-psr.exe
+*.exe
+steps_report.html
+generate_icon.py

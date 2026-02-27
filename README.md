@@ -8,16 +8,16 @@ A Python recreation of the classic Windows Problem Steps Recorder (`psr.exe`) th
 
 ## Features
 
-- **Automatic screenshot capture** on every mouse click — just like the original PSR
-- **Active window capture** — screenshots are cropped to the foreground window, not the entire desktop
-- **Click position highlight** — a red crosshair circle marks exactly where you clicked
-- **Window title logging** — records which application was active for each step
-- **UI element detection** — identifies the control/element under the cursor (with optional `pywinauto`)
-- **Keyboard input tracking** — logs typing activity with character counts (content is masked for privacy)
-- **HTML report generation** — self-contained HTML file with embedded screenshots and a dark theme
-- **Lightbox viewer** — click any screenshot in the report to view it full-size; close with ×, click outside, or Escape
-- **ZIP export** — optionally bundle the report with separate screenshot PNGs
-- **Configurable** — adjust capture delay, output format, and more via CLI flags
+- **Automatic screenshot capture** on every mouse click just like the original PSR
+- **Active window capture** screenshots are cropped to the foreground window, not the entire desktop
+- **Click position highlight** a red crosshair circle marks exactly where you clicked
+- **Window title logging** records which application was active for each step
+- **UI element detection** identifies the control/element under the cursor (with optional `pywinauto`)
+- **Keyboard input tracking** logs typing activity with character counts (content is masked for privacy)
+- **HTML report generation** self-contained HTML file with embedded screenshots and a dark theme
+- **Lightbox viewer** click any screenshot in the report to view it full-size; close with ×, click outside, or Escape
+- **ZIP export** optionally bundle the report with separate screenshot PNGs
+- **Configurable** adjust capture delay, output format, and more via CLI flags
 
 ## Requirements
 
@@ -83,7 +83,7 @@ You can also press **Ctrl+C** in the terminal.
 
 ### HTML Report
 
-A self-contained `.html` file with all screenshots embedded as base64. Open it in any browser — no server or extra files needed.
+A self-contained `.html` file with all screenshots embedded as base64. Open it in any browser - no server or extra files needed.
 
 Each step shows:
 - Step number and timestamp
